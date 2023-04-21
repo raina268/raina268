@@ -8,7 +8,7 @@ This is Ayanokojji-kun, A Programmer from nowhere
 - 🌐 I like to know more about Networking Stuff
 - 🤓 learning about computer is very enjoyable for me
 
-## Skills i Know:
+## My Skill Set:
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -26,6 +26,8 @@ This is Ayanokojji-kun, A Programmer from nowhere
 
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+  
+ ## and Many More 
 
 
 ## OS & Tools
