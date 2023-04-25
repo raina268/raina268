@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Ayanokojji-kun, A Programmer from nowhere
+This is Ayanokoji, A Programmer from nowhere
 
 - 🔭 I’m interested in ***Programming***
 - :snake: I’m currently learning Python
