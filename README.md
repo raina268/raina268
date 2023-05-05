@@ -33,7 +33,7 @@ This is Ayanokoji, A Programmer from nowhere
 ## OS & Tools
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-[![Linux](https://img.shields.io/badge/computer-black?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
 [![Chrome](https://img.shields.io/badge/Google_Chrome-FF7139?style=for-the-badge&logo=Google_Chrome&logoColor=white)](https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjw__ihBhADEiwAXEazJqiE3ktUy-OwpXWivoknoOL0ABDRgR5IljaMyiMCI7IZGw0soU02_hoC0_oQAvD_BwE&gclsrc=aw.ds)
 [![NANO](https://img.shields.io/badge/NANO-%2311AB00.svg?&style=for-the-badge&logo=nano&logoColor=white)](https://www.nano-editor.org/dist/latest/nano.html)
