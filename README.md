@@ -3,10 +3,12 @@
 This is Ayanokoji, A Programmer from nowhere
 
 - 🔭 I’m interested in ***Programming***
-- :snake: I’m currently learning Python
-- 🧑🏻‍💻 I'm also intrested in Hacking and like writing my own hacking tools
+- :snake: 
+- 🧑🏻‍💻 I'm also intrested in Cyber Sec and like writing my own Cyber Sec tools
 - 🌐 I like to know more about Networking Stuff
 - 🤓 learning about computer is very enjoyable for me
+
+- In a nutshell i love all stuff related to 🖥️ Computer 💻
 
 ## My Skill Set:
 
