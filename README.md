@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-This is Ayanokoji, A Programmer from nowhere
+This is Itz-Raina
 
 - 🔭 I’m interested in ***Programming***
-- :snake: 
-- 🧑🏻‍💻 I'm also intrested in Cyber Sec and like writing my own Cyber Sec tools
+- 🧑🏻‍💻 I'm also intrested in Cyber Sec
 - 🌐 I like to know more about Networking Stuff
 - 🤓 learning about computer is very enjoyable for me
 
