@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Itz-Raina
+Itz Raina
 
 - 🔭 I’m interested in ***Programming***
 - 🧑🏻‍💻 I'm also intrested in Cyber Sec
