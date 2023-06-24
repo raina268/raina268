@@ -9,7 +9,7 @@ An unskilled guy who loves to write tools and like stuff related to computer.
 - 🐧 Trying Independent Distros Like ArchLinux, Gentoo, NixOS, etc. 
 - 🐧 Ricing Linux
 - #! Shell Scripting
-- ⌨ Programming
+- ⌨️ Programming
 - 👨🏻‍💻 Cyber Sec
 - 💻 Learning more about computer is very enjoyable for me
 
