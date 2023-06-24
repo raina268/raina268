@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-Itz Raina
+Hey bros/sisses Itz Raina 
 
-- 🔭 I’m interested in ***Programming***
-- 🧑🏻‍💻 I'm also intrested in Cyber Sec
-- 🌐 I like to know more about Networking Stuff
-- 🤓 learning about computer is very enjoyable for me
+An unskilled guy who loves to write tools and like stuff related to computer.
 
-- In a nutshell i love all stuff related to 🖥️ Computer 💻
+## Intrests & Hobbies:
 
+- Trying Independent Distros Like ArchLinux, Gentoo, NixOS, etc. 
+- Ricing Linux
+- Shell Scripting
+- Programming
+- Cyber Sec
+- Learning more about computer is very enjoyable for me
 
-<!--
-**Ayanokojji/Ayanokojji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### - In a nutshell i love all stuff related to 🖥️ Computer 💻
+
