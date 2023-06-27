@@ -7,7 +7,7 @@
 ## Intrests & Hobbies:
 
 - 🐧 Linux Enthusiast
-- 🐧 Trying Independent Distros Like ArchLinux, Gentoo, NixOS, etc. 
+-  Trying Independent Distros Like ArchLinux 󰣇, Gentoo , NixOS 󱄅, etc.
 - 🐧 Ricing Linux
 - #! Shell Scripting
 - ⌨️ Programming
