@@ -7,7 +7,7 @@
 ## Intrests & Hobbies:
 
 - 🐧 Linux Enthusiast
-<img width="20" src="https://w7.pngwing.com/pngs/306/700/png-transparent-arch-linux-computer-icons-linux-distribution-arch-user-repository-linux-angle-triangle-logo.png" />- Trying Independent Distros Like ArchLinux 󰣇, Gentoo , NixOS 󱄅, etc.
+- 🐧 Trying Independent Distros Like ArchLinux 󰣇, Gentoo , NixOS 󱄅, etc.
 - 🐧 Ricing Linux
 - #! Shell Scripting
 - ⌨️ Programming
