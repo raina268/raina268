@@ -6,6 +6,7 @@ An unskilled guy who loves to write tools and like stuff related to computer.
 
 ## Intrests & Hobbies:
 
+- 🐧 Linux Enthusiast
 - 🐧 Trying Independent Distros Like ArchLinux, Gentoo, NixOS, etc. 
 - 🐧 Ricing Linux
 - #! Shell Scripting
