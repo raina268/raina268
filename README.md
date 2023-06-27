@@ -1,8 +1,8 @@
-### Hi there 👋
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-Hey bros/sisses Itz Raina 
+<p align="center">Hey bros/sisses I'm Raina.</p>
 
-An unskilled guy who loves to write tools and like stuff related to computer.
+<p align="center">An unskilled guy who loves to write tools and like stuff related to computer.</p>
 
 ## Intrests & Hobbies:
 
