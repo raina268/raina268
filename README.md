@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <p align="center">Hey bros/sisses I'm Raina.</p>
-
+<img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="228" width="230" />
 <p align="center">An unskilled guy who loves to write tools and like stuff related to computer.</p>
 
 ```zsh
@@ -9,7 +9,7 @@
 ```
 
 
-<img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="228" width="230" />
+<img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="300" width="300">
 
 
 ```
