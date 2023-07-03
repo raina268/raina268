@@ -23,7 +23,7 @@
 
 
 ## Intrests & Hobbies:
-
+  -                     
   -  Linux Enthusiast
   -  Trying Independent Distros Like ArchLinux, Gentoo, NixOS, etc.
   -  Ricing Linux
