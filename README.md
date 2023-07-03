@@ -11,6 +11,19 @@
 
 <img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="228" width="230" />
 
+
+```
+▉▉   │ OS ......... Arch Linux x86_64
+  ▉▉ │ Shell ...... /usr/bin/zsh
+▉▉   │ WM ......... i3 | awesome | qtile
+  ▉▉ │ Terminal ... alacritty
+▉▉   │ Location ... India
+  ▉▉   │ Languages .. Python | Shell Scripting | Golang
+```
+
+
+
+
 ## Intrests & Hobbies:
 
 -  Linux Enthusiast
