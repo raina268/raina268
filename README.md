@@ -7,10 +7,6 @@
 > info
 ```
 
-[//]: # (| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itz-Raina&theme=github_dark) |
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itz-Raina&theme=github_dark) |
-| :-: | :-: |)
-
 <img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="300" width="300">
 
 
