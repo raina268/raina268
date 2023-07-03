@@ -18,8 +18,9 @@
 ▉▉   │ WM ......... i3 | awesome | qtile
   ▉▉ │ Terminal ... alacritty
 ▉▉   │ Location ... India
-  ▉▉   │ Languages .. Python | Shell Scripting | Golang
+  ▉▉ │ Languages .. Python | Shell Scripting | Golang
 ```
+
 
 
 
