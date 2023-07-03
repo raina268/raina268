@@ -29,3 +29,5 @@
   -  Learning more about computer is very enjoyable for me
 
 ```
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itz-Raina&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itz-Raina&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itz-Raina&theme=github_dark) |
