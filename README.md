@@ -4,6 +4,11 @@
 
 <p align="center">An unskilled guy who loves to write tools and like stuff related to computer.</p>
 
+```zsh
+> info
+```
+
+
 <img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="228" width="230" />
 
 ## Intrests & Hobbies:
