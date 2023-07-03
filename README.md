@@ -23,9 +23,7 @@
   -  Linux Enthusiast
   -  Trying Independent Distros Like ArchLinux, Gentoo, NixOS, etc.
   -  Ricing Linux
-  -  Programming | Shell Scripting
+  -  Programming, Shell Scripting
   -  Cyber Sec
+  -  Learning more about computer is very enjoyable for me
 ```
-
-### -  Learning more about computer is very enjoyable for me
-
