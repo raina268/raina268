@@ -28,5 +28,4 @@
   -  Cyber Sec
   -  Learning more about computer is very enjoyable for me
 
-
 ```
