@@ -11,7 +11,7 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="300" width="300">
 
 
-```
+```md
 ▉▉   │ OS ......... Arch Linux x86_64
   ▉▉ │ Shell ...... /usr/bin/zsh
 ▉▉   │ WM ......... i3 | awesome | qtile
