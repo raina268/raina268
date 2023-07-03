@@ -19,6 +19,7 @@
 ▉▉   │ Location ... India
   ▉▉ │ Languages .. Python | Shell Scripting | Golang
 
+
  Intrests & Hobbies:
   -  Linux Enthusiast
   -  Trying Independent Distros Like ArchLinux, Gentoo, NixOS, etc.
@@ -26,4 +27,5 @@
   -  Programming, Shell Scripting
   -  Cyber Sec
   -  Learning more about computer is very enjoyable for me
+
 ```
