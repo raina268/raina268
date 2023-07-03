@@ -31,3 +31,7 @@
 ```
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itz-Raina&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itz-Raina&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itz-Raina&theme=github_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itz-Raina&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=Itz-Raina&theme=github-dark&hide_border=true) |
+| :-: | :-: |
