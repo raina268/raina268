@@ -16,7 +16,7 @@
   ▉▉ │ Shell ...... /usr/bin/zsh
 ▉▉   │ WM ......... i3 | awesome | qtile
   ▉▉ │ Terminal ... alacritty
-▉▉   │ Location ... India
+▉▉   │ Location ... 127.0.0.1
   ▉▉ │ Languages .. Python | Shell Scripting | Golang
 
 
