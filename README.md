@@ -30,5 +30,53 @@
 
 ```
 
-<b style="color:#232933">1</b><b style="color:#262C36">1</b><b style="color:#252C35">1</b><b style="color:#242A34">0</b><b style="color:#242A35">1</b><b style="color:#222834">0</b><b style="color:#232935">1</b><b style="color:#242A36">1</b><b style="color:#252B37">1</b><b style="color:#272E3A">1</b><b style="color:#282E3A">0</b><b style="color:#272D39">10</b><b style="color:#272E3A">0</b><b style="color:#282E3A">1</b><b style="color:#242A36">0</b><b style="color:#282E3A">0</b><b style="color:#27303B">1</b><b style="color:#27323C">1</b><b style="color:#343F49">0</b><b style="color:#26303B">11</b><b style="color:#252F3A">1</b><b style="color:#242C36">1</b><b style="color:#21272E">1</b><b style="color:#14191F">1</b><b style="color:#151923">0</b><b style="color:#151A24">1</b><b style="color:#1F242E">0</b><b style="color:#282D37">1</b><b style="color:#262A36">0</b><b style="color:#212632">1</b><b style="color:#242B37">0</b><b style="color:#2F3843">0</b><b style="color:#2A343F">0</b><b style="color:#292F3B">0</b><b style="color:#282E3A">0</b><b style="color:#252B37">1</b><b style="color:#292F3B">1</b><b style="color:#292D3A">0</b><b style="color:#1F2330">0</b><b style="color:#1C202D">0</b><b style="color:#242734">1</b><b style="color:#1B1E28">0</b><b style="color:#181B22">1</b><b style="color:#242831">1</b><b style="color:#2A313C">1</b><b style="color:#2A323D">1</b><b style="color:#2A303C">0</b><b style="color:#262C38">0</b><b style="color:#282E3A">11</b><b style="color:#272D39">0</b><b style="color:#2A303C">0</b><b style="color:#2E3440">0</b><b style="color:#2C323E">1</b><b style="color:#2D333F">1</b><b style="color:#292F3B">1</b><b style="color:#262C38">0</b><b style="color:#29303B">0</b><b style="color:#292F3B">1</b><b style="color:#252B37">1</b><b style="color:#282E3A">0</b><b style="color:#292F3B">1</b><b style="color:#2A303C">1</b><b style="color:#303944">1</b><b style="color:#363F4A">0</b><b style="color:#2C3641">1</b><b style="color:#27303B">1</b><b style="color:#212933">1</b><b style="color:#1A1F29">1</b><b style="color:#191E28">0</b><b style="color:#20252F">1</b><b style="color:#2C323C">0</b><b style="color:#29343C">10</b><b style="color:#2B363E">0</b><b style="color:#2C363F">1</b><b style="color:#2E3A43">0</b><b style="color:#2A3640">1</b><b style="color:#33404A">1</b><b style="color:#37444E">0</b><b style="color:#2A363F">0</b><b style="color:#29343C">1</b><b style="color:#2F3A42">0</b><b style="color:#2E3941">0</b><b style="color:#2D3740">0</b><b style="color:#29333E">1</b><b style="color:#2C3641">1</b><b style="color:#2E3843">0</b><b style="color:#2F3A44">0</b><b style="color:#323844">1</b><b style="color:#2C303D">1</b><b style="color:#2C333F">1</b><b style="color:#2E3742">0</b><b style="color:#2F3A44">0</b><b style="color:#303A45">00</b><b style="color:#303B45">1</b><b style="color:#333D48">0</b><b style="color:#343F49">0</b><b style="color:#353F49">0</b><b style="color:#323C47">1</b><b style="color:#333D48">1</b><b style="color:#35414A">0</b><b style="color:#36434A">0</b><b style="color:#37444B">0</b><b style="color:#36434B">1</b><b style="color:#36424B">0</b><b style="color:#35414B">1</b><b style="color:#36434C">0</b><b style="color:#323F49">0</b><b style="color:#37444D">0</b><b style="color:#37434D">1</b><b style="color:#35414B">1</b><b style="color:#35424C">1</b><b style="color:#3B4751">0</b><b style="color:#36424C">0</b><b style="color:#37434D">01</b><b style="color:#38454E">0</b><b style="color:#3B4851">0</b><b style="color:#3A4650">1</b><b style="color:#3B4751">0</b><b style="color:#3C4953">0</b>
+```
+BBBBBBBBBBBBBBBBBBBBBBBB#&&#BBBBBBBBB####BBBBBBBBBBBBB#BBBBB###BBBBBBBBBBBBBBBBGBGGGGGGGGGGGGGPGGGGG
+BBBBBBBBBBBBBBBBBBBBBB###&##BBBBBBBB####BBBBBBBBBBBB##BBBBB###BBBBBBBBBBBBBBBGBGGGGGGGGGGGGGGGGGGGGG
+BBBBBBBBBBBBBBBBGBBBB#&&###BBBBBBB#####BBBBBBBBBBBB#BBGBBB##BBBGBGBBBBBGBBBBBGGGGGGGGGGGGGGGGGGGGGGG
+BBBBBBBBBBBBBBBBBBBB#&##BBBBBBBBB####BBBBBBBBBBBBBBBBGGB###BBBBBGGBBBBBGBBBBGGGGGGGGGGGGGGGGGGGGGGGG
+BBBBBBBBBBBBBBBGBBB#&##BBBBBBBB##B##BBBBBBBBBBBBBBBBGBB###BBBBBBGBBBBBBBBBBBGGGGGGGGGGGGGGGGGGGGGGGG
+BB#B#BBB#BBBBBBBBB#&#BBBBBBBBB#BB##BBBBBBBBBBBBBBBBBB###BBBBBBBBGBBBBBBBBGBBBGGGGGGGGGGGGGGGGGGGGGGG
+BBB##BBBBB##BBBBB###BBB#BBBBBBBBB#BBBBBBBBBBBBBBBBB####BBBBBBBBBBBBBBBBBBBBBBGGGGGGGGGGGGGGGGGGGGGGG
+BBBBBBBBBB##BBBBB##BBBBBBBBBBBBB#BBBBBBBBBBBBBBBB####BBBBBBBBBBBBBBBBBBBGBBBBGGBGGGGGGGGGGGGGGGGGGGG
+B#BB#BBB###BBBBB##BBB##BBB#BBBB##BBBBBBBBBBBBBB#####BBBBBBBBBBBBBBBBBBBBBGBGBBGGGGGGGGGGGGGGGGGGBGGG
+BBBBBB#####BBBB##BBB###BBBBBBBB#BBBBBBBBBBBBB####BBBBBBBBBBBBBBBBBBBBBBBBGBBBBGGGGGGGGGGGGGGGGGGGBGG
+BBBBB######BBBB#BBB#&#BBBBBBBBBBBBBBBBBBBBB####BBBBBBBBBBBBBBBBBB#BBBBBBBBBBBBGBGGGGGGGGBGGGGGGGGBGG
+BB#######&#BBB#BBB#&##BBBB#BBBBBBBBBBBBBB#####BBBBBBBBBBBB#BBBBBB##BBBB#BBBBBBBBBGGGGGGGBGGGGGGGGBBG
+BB#####B##BBBBBBB#&&&#BBB##BBBBBBBBBBBB####BBBBB##BBBBBBBBBBBBBBB##BBBB#BBBBBBBBBBGGGGGGBBGGGGGGBBBB
+######B#&#B#BBBB#&&&&&#B#&#BBBBBBBBB#####BB#BBB##BBBBBBB##BBBBBBGB##BBB##BBBBBGBBBBBGGGGBBGGGGGGBBBB
+#########BBBB#B##&###&#B##BB#B#BB#######BBBBBB##BBBBBBB##BBBBBBBGP###BB##BBBBBBBBBBBBGGGBBGGGGGGGBBB
+#########BBBBB###&##&##BB#BBBB#####BB##BBBBB###BBBBBBB##BBBBBBBG55G###B###BBB#BBBBBBBBBGBBGGGBGGJ75B
+######&##BBBB##&&&###GGG########BBBB##BBBBB###BBBBBBB##BBB#BBBBBP5GB##B####BB#BBBBBBBBBGB#BGGBGGJ775
+########BBBBB#&&&&#BGGGG#####BBBBBBBBBBBB####BBBBBBB##BBB#BBBBG?77?5B#BB###BB#BBBBBBBBBB##BBBBGGP5J?
+######&#BBBBB#&&&#BBBBBB##&#BBBBBBBBBBBB###BBBBB#B###BB##G5PBP?7777?5GBBG###B#BBBBBBBBBB##BGBBBGPYJ7
+BB######BBBB##&&#BGPY?5B#&###BBB#BBBBB##&#BBBBBBB###BBBBP?JBP??JJJYYPB####&###BBBBBBBBBB##BBBBGGPY77
+BBBBBB##BBBB#&#BPJ??7?P###B###BBBB#BB#&##BBBBBB##&#BB#BBGG#&####BBBBGPPBPB####BB#BBBBBB###BBGGBGPJ77
+#BBBBBB#BB##&&&BP5YYY5B&######BBBBBB#&#BBBBBB##&##BB####&&&&&&G55GJ77!!P5?5###BB#BBBBBB##BBBPPBB5?77
+BBBBBBBBB###&#G#&&&&BB##########BGB###BBBBB##&##BB##BPP5GBBPGGPGBG7!77JPP77P##BB#BBBBB###BBGPPBB5?7?
+BB#BBBBBBBB#&#Y5BBBBGBBBBBBB#BBPGB##BBBBB#####BBBBPY?77YG5J??????77777?PG?7JBBB##BBBBB###BBGPPBP?7JB
+BBBB#BBBBB#B##Y7?JJYG#BBBBBGPYJPB##BB#####BBBBBG5J777?Y5J7777777777777755Y77GBB##BBBB####BGPPPG?7P##
+BBBB#BBBBBBBB#Y77?YGBBBGP5J?7JG########BGGBBG5Y?7777?JY?777777777777777J5J7JBBG##BBBB####PYJ?5YJB###
+B#B#BBBBB#BBBBGJJPGP5YJ?777?PB#BBBGGP5YYGB5J?77777????7777777777777777775?JGG5PB#BBB###BY?77?5P#####
+#BBBBBBB##BBBP?5J777777?JYPBBG5YJ???7?JJYP7777?????777777777777777777777?YGG??PBBBB####Y777?P####BB#
+BBB#BB##B##BBB?7JJ?JY5PGGGP5YJ?7?77?77?7?PJ???77777777777777777777777777YG5??7PBBBB###G777JG#&###BB#
+BB###B##BB#BB#GYYY5Y?????7777777777777777YJ777777777777777777777777777JYY?7???GBBB####J7?YB####B#BB#
+###BBB#BBBBBBB#####BG57777777777777777777??7777777777777777777777777???777777JBBB##B#GY5PPB####BBB##
+###BBB#BBBBBBBB##BBB##GJ7777777777777777777777777777777777777777777777777777?GBB##GBBPPPPPB###BBBB##
+BB#BBB#BBB#BBBBBB#BBBB#B5?7777777777777777777777777777777777777777777777777JGB#BGGGBGGPPPPB###BBB###
+####BB#BBBBBBBBBB#BBBBBB#B5?777??JJJJJ?77JY7777777777777777777777777777777J5YP5J5GGGPPPPPG###BB###BB
+#####B#######BB#B#BB###BB##BGGGBBBBBBBBG5PGY777?777777777777777777777777???7???5GGPPPPPPPB##BB###BBB
+B#B####B##BBBB#BB##B###BBBB######BB#######BBP5J?77777777777777777777777777777JPPGPPPPPGPG##BB###BBBB
+#B#####BB#B####BB###B##BB#BB########BBB#BBB###BBP5J?77777777777777777777777?5PPGGPPPPPPG##BB###B##BB
+########B#####B#B#B#B##BB#B#B#########B##BB#######BBP5J?77777777777777777?YPPPPGPPGPPPG##BB###B#####
+###############B##########BB#BB#######BB##########B####BP5YYJ?7777777777JPPPPGGGPGGGGGB#####B###BB##
+###############################B###################BB#######BBGP5555YYYPGGGGGGGGGGGGGB#######B######
+##########################################B######B#########################BBBBBGGGGB#############B#
+##&&################################################################################################
+#&&######&&&########################################################################################
+########&&&&&#######################################################################################
+########&&&&&&&&################################################################&&&#################
+#######&&&&&&&&####################################################################&&&&#############
+########&&&&&&&######################################################################&&&&&&#########
+```
 
