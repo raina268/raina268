@@ -4,12 +4,12 @@
 <p align="center">An unskilled guy who loves to write tools and like stuff related to computer.</p>
 
 
- * <kbd>> info</kbd>
+<kbd>> info</kbd>
 
 <img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="300" width="300">
 
 
-```markdown
+<kbd>
 
 ▉▉   │ OS ......... Arch Linux x86_64
   ▉▉ │ Shell ...... /usr/bin/zsh
@@ -27,4 +27,4 @@
   -  Cyber Sec
   -  Learning more about computer is very enjoyable for me
 
-```
+</kbd>
