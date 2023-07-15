@@ -16,7 +16,7 @@
 ▉▉   │ WM ......... i3 | bspwm | awesome | qtile
   ▉▉ │ Terminal ... alacritty
 ▉▉   │ Location ... 127.0.0.1
-  ▉▉ │ Languages .. Shell Scripting | Python |  Golang
+  ▉▉ │ Languages .. Shell Scripting | Golang | Python
 
 
  Intrests & Hobbies:
