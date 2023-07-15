@@ -9,14 +9,14 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="300" width="300">
 
 
-<kbd>
+```markdown
 
 ▉▉   │ OS ......... Arch Linux x86_64
   ▉▉ │ Shell ...... /usr/bin/zsh
-▉▉   │ WM ......... i3 | awesome | qtile
+▉▉   │ WM ......... i3 | bspwm | awesome | qtile
   ▉▉ │ Terminal ... alacritty
 ▉▉   │ Location ... 127.0.0.1
-  ▉▉ │ Languages .. Python | Shell Scripting | Golang
+  ▉▉ │ Languages .. Shell Scripting | Python |  Golang
 
 
  Intrests & Hobbies:
@@ -27,4 +27,4 @@
   -  Cyber Sec
   -  Learning more about computer is very enjoyable for me
 
-</kbd>
+```
