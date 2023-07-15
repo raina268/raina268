@@ -12,7 +12,7 @@
 ```markdown
 
 ▉▉   │ OS ......... Arch Linux x86_64
-  ▉▉ │ Shell ...... /usr/bin/zsh
+  ▉▉ │ Shell ...... /bin/zsh
 ▉▉   │ WM ......... i3 | bspwm | awesome | qtile
   ▉▉ │ Terminal ... alacritty
 ▉▉   │ Location ... 127.0.0.1
