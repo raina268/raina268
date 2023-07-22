@@ -27,6 +27,5 @@
   -  Programming, Shell Scripting
   -  Cyber Sec
   -  Learning more about computer is very enjoyable for me
-
   
 ```
