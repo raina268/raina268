@@ -11,6 +11,7 @@
 
 ```markdown
 
+  
 ▉▉   │ OS ......... Arch Linux x86_64
   ▉▉ │ Shell ...... /bin/zsh
 ▉▉   │ WM ......... i3 | bspwm | awesome | qtile
@@ -27,4 +28,5 @@
   -  Cyber Sec
   -  Learning more about computer is very enjoyable for me
 
+  
 ```
