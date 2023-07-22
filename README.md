@@ -21,7 +21,7 @@
 
  Intrests & Hobbies:
   -  Linux Enthusiast
-  -  Trying Independent Distros Like ArchLinux, Gentoo, NixOS, etc.
+  -  Trying Distros Like ArchLinux, VoidLinux, Gentoo, etc.
   -  Ricing Linux
   -  Programming, Shell Scripting
   -  Cyber Sec
