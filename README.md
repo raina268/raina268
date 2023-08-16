@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <p align="center">Hey bros/sisses I'm Raina.</p>
-<p align="center">An average 16 yo student who loves to write tools and like stuff related to computer.</p>
+<p align="center">An average 16 yo student who loves to write tools, pentesting and like stuff related to computer.</p>
 
 
 <kbd>> info</kbd>
