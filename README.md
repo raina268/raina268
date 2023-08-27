@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Hey,+It's+Raina)](https://git.io/typing-svg)
 <p align="center">An average 16 yo student who loves to write tools, pentesting and like stuff related to computer.</p>
 
+---
 
 <kbd>> info</kbd>
 
@@ -28,3 +29,4 @@
   -  Cyber Sec
   -  Learning more about computer is very enjoyable for me 
 ```
+---
