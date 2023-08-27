@@ -1,7 +1,5 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-[![SVG](https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Hey,+It's+Raina)](https://git.io/typing-svg)
-
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Hey,+It's+Raina" /> </p>
 
 
