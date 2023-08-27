@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&Center=truelines=Hey,+It's+Raina)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&Center=true&lines=Hey,+It's+Raina)](https://git.io/typing-svg)
 <p align="center">An average 16 yo student who loves to write tools, pentesting and like stuff related to computer.</p>
 
 
