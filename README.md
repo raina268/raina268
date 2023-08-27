@@ -13,7 +13,7 @@
 ```markdown
 
   
-▉▉   │ OS ......... Arch Linux x86_64
+▉▉   │ OS ......... Arch Linux (btw) x86_64
   ▉▉ │ Shell ...... /bin/zsh
 ▉▉   │ WM ......... i3 gaps | awesome
   ▉▉ │ Terminal ... alacritty
