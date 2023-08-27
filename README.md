@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Hey,+It's+Raina)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Hey,+It's+Raina)](https://git.io/typing-svg)
 <p align="center">An average 16 yo student who loves to write tools, pentesting and like stuff related to computer.</p>
 
 ---
@@ -15,10 +15,11 @@
   
 ▉▉   │ OS ......... Arch Linux x86_64
   ▉▉ │ Shell ...... /bin/zsh
-▉▉   │ WM ......... i3 | bspwm | awesome | qtile
+▉▉   │ WM ......... i3 gaps | awesome
   ▉▉ │ Terminal ... alacritty
 ▉▉   │ Location ... 127.0.0.1
-  ▉▉ │ Languages .. Shell Scripting | Golang | Python
+  ▉▉ │ Languages .. Shell Scripting | Python
+▉▉   │ Editor ..... NeoVim
 
 
  Intrests & Hobbies:
