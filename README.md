@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Hey,+It's+Raina" /> </p>
 
-<p align="center">An average 16 yo student who loves to write tools, pentesting and like stuff related to computer.</p>
+<p align="center">An average 16 yo student who loves to write tools, pentesting , mainly stuff related to Computer.</p>
 
 ---
 
