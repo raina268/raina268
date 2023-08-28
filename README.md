@@ -22,6 +22,7 @@
   ▉▉ │ Languages .. C (.c) | Python (.py) | Shell Scripting (.sh)
 ▉▉   │ Editor ..... NeoVim
 
+
  Intrests & Hobbies:
   -  Linux Enthusiast
   -  Ricing Linux
