@@ -19,7 +19,7 @@
 ▉▉   │ WM ......... i3 gaps | awesome
   ▉▉ │ Terminal ... alacritty
 ▉▉   │ Location ... 127.0.0.1
-  ▉▉ │ Languages .. Shell Scripting | Python
+  ▉▉ │ Languages .. C (.c) | Python (.py) | Shell Scripting (.sh)
 ▉▉   │ Editor ..... NeoVim
 
  Intrests & Hobbies:
