@@ -22,10 +22,8 @@
   ▉▉ │ Languages .. Shell Scripting | Python
 ▉▉   │ Editor ..... NeoVim
 
-
  Intrests & Hobbies:
   -  Linux Enthusiast
-  -  Trying Distros Like ArchLinux, VoidLinux, Gentoo, etc.
   -  Ricing Linux
   -  Programming, Shell Scripting
   -  Cyber Sec
