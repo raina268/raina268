@@ -1,6 +1,5 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Hey,+It's+Raina" /> </p>
+# Oh Hi.
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=It's+Raina" /> </p>
 
 <p align="center">An average 16 yo student who loves to write tools, pentesting , mainly stuff related to Computer.</p>
 
