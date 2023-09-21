@@ -6,6 +6,7 @@
 <p align="center">An average 16 yo student who loves to write tools, pentesting , mainly stuff related to Computer.</p>
 <p align="center">I do program things and I'm pretty bad at it.</p>
 <p aligin="centre">I like OCaml, Python, Shell Scripting and C. I'm no good at HTML & CSS.</p>
+
 ---
 
 <kbd>> info</kbd>
