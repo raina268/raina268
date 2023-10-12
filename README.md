@@ -1,6 +1,6 @@
 # Oh Hi.
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Iam+raina" /> </p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=Iam+Raina" /> </p>
 
 
 
