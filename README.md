@@ -14,8 +14,8 @@
     <img src="https://skillicons.dev/icons?i=linux,neovim,c,ocaml,py,bash" />
   </a>
 </p>
----
 
+---
 
 <kbd>> info</kbd>
 
