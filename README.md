@@ -9,9 +9,7 @@
 <p align="center">I like OCaml, Python, Shell Scripting and C.</p>
 
 ---
-
 <img align="center" src="https://skillicons.dev/icons?i=linux,neovim,c,ocaml,py,bash" alt="Profile" height="300" width="300">
-
 ---
 
 <kbd>> info</kbd>
