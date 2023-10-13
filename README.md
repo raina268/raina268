@@ -10,11 +10,11 @@
 
 ---
 
-
-<kbd>> info</kbd>
-
 <img align="center" src="https://skillicons.dev/icons?i=linux,neovim,c,ocaml,py,bash" alt="Profile" height="300" width="300">
 
+---
+
+<kbd>> info</kbd>
 
 <img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="300" width="300">
 
