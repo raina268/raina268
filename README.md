@@ -3,11 +3,14 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=1ba2cf&vCenter=true&width=210&height=35&lines=It's+Raina" /> </p>
 
 
-
-<p align="center">An average 16 yo student who loves to write tools, pentesting , mainly stuff related to Computer.</p>
-<p align="center">I do program things and I'm pretty bad at it.</p>
-<p align="center">I like OCaml, Python, Shell Scripting and C.</p>
-
+```python
+const sid = { 
+              age: 16,
+              languages: [Python, C, Ocaml],
+              tools: [Arch Linux, neovim, i3 gaps],
+              workExperience: null
+            }
+```
 
 <kbd>> info</kbd>
 
