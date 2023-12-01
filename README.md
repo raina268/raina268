@@ -3,7 +3,7 @@
 ```js
 const raina = { 
               age: 16,
-              languages: [Python (.py), C (.c) ,Ocaml (.ml)],
+              languages: [Python, C , Ocaml],
               tools: [Arch Linux, neovim, i3 gaps],
               workExperience: null
             }
