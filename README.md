@@ -40,5 +40,5 @@ const raina = {
 ```
 ---
 
-<img src="https://count.getloli.com/get/@ImRaina?theme=rule34" alt="ImRaina" />
+<img src="https://count.getloli.com/get/@Rainax1?theme=rule34" alt="Rainax1" />
 
