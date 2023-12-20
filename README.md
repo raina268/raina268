@@ -1,8 +1,7 @@
 # Oh Hi
 
 ```js
-const raina = { 
-              age: 17,
+const raina = {
               languages: [Python, C , Ocaml],
               tools: [Arch Linux, neovim, i3 gaps],
               workExperience: null
@@ -40,4 +39,6 @@ const raina = {
 ** -  Learning more about computer is very enjoyable for me **
 ```
 ---
+
+<img src="https://count.getloli.com/get/@ImRaina?theme=rule34" alt="ImRaina" />
 
