@@ -2,14 +2,21 @@
 
 I'm a developer who likes to build things and share them with everyone 😉
 
-Languages: [Python, C , Ocaml],
+
+Languages: [Python, C , Ocaml]
+
 Tools: [Arch Linux, neovim, i3 gaps]
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,c,ocaml,py,bash" />
-  </a>
-</p>
+
+<h2> Languages and Tools 🛠:></h2>
+
+![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
 
 <p align="center">
 <img src="https://github.com/Rainax1/Rainax1/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
