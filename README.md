@@ -9,7 +9,9 @@ I'm a developer who likes to build things and share them with everyone 😉
 
 
 Languages: Python, C , C++, Ocaml
+
 Tools: Arch Linux, Neovim, i3 gaps
+
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=neovim&logoColor=green)
