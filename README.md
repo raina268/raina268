@@ -8,16 +8,17 @@ I'm a developer who likes to build things and share them with everyone 😉
 <h2> Languages and Tools 🛠:></h2>
 
 
-Languages: [Python, C , C++, Ocaml]
+Languages: Python, C , C++, Ocaml
+Tools: Arch Linux, Neovim, i3 gaps
 
-Tools: [Arch Linux, Neovim, i3 gaps]
-
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=neovim&logoColor=green)
 ![C](https://img.shields.io/badge/%20-C--language-%23434C5E?style=for-the-badge&logo=c&%2B%2B&labelColor=%23A8B9CC&logoColor=black)
+![Ocaml](https://img.shields.io/badge/%20-Ocaml-%23434C5E?style=for-the-badge&logo=Ocaml&labelColor=white&logoColor=orange)
 ![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
-![Neovim](https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=neovim&logoColor=green)
+
 
 
 
