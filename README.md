@@ -40,12 +40,8 @@ Tools.........   ( Arch Linux, Neovim, i3 gaps )
 
 <kbd>> info</kbd>
 
-<img align="left" src="https://avatars.githubusercontent.com/u/131177110?v=4" alt="Profile" height="300" width="300">
-
 
 ```markdown
-
-  
 ▉▉   │ OS ......... Arch Linux (btw) x86_64
   ▉▉ │ Shell ...... /bin/zsh
 ▉▉   │ WM ......... i3 gaps | awesome
@@ -53,7 +49,7 @@ Tools.........   ( Arch Linux, Neovim, i3 gaps )
 ▉▉   │ Location ... 127.0.0.1
   ▉▉ │ Languages .. C (.c) | OCaml (.ml) | Python (.py) | Shell Scripting (.sh)
 ▉▉   │ Editor ..... Neovim
-
+```
 ---
 
 <img src="https://count.getloli.com/get/@Rainax1?theme=rule34" alt="Rainax1" />
