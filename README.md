@@ -1,4 +1,6 @@
-# Oh Hi
+# Oh Hi 👋
+
+I'm a developer who likes to build things and share them with everyone 😉
 
 ```js
 const raina = {
