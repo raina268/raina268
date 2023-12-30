@@ -16,6 +16,7 @@ Tools: [Arch Linux, Neovim, i3 gaps]
 ![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
+![Arch](https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=arch&logoColor=blue)
 ![Neovim](https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=neovim&logoColor=green)
 
 
