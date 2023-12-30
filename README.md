@@ -3,14 +3,21 @@
 I'm a developer who likes to build things and share them with everyone 😉
 
 
-
-
 <h2> Languages and Tools 🛠:></h2>
 
 
 Languages: Python, C , C++, Ocaml
 
 Tools: Arch Linux, Neovim, i3 gaps
+
+
+Intrests & Hobbies:
+   -  Programming
+   -  Linux Enthusiast
+   -  Ricing Linux
+   -  Cyber Sec
+** -  Learning more about computer is very enjoyable for me **
+
 
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
