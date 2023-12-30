@@ -2,19 +2,17 @@
 
 I'm a developer who likes to build things and share them with everyone 😉
 
-```js
-const raina = {
-              languages: [Python, C , Ocaml],
-              tools: [Arch Linux, neovim, i3 gaps],
-              workExperience: null
-            }
-```
+Languages: [Python, C , Ocaml],
+Tools: [Arch Linux, neovim, i3 gaps]
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,neovim,c,ocaml,py,bash" />
   </a>
 </p>
+
+<p align="center">
+<img src="https://github.com/Rainax1/Rainax1/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
 
 <kbd>> info</kbd>
 
