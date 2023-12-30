@@ -16,9 +16,11 @@ Intrests & Hobbies:
 <h2> Languages and Tools 🛠:></h2>
 
 
-Languages: ( Python, C, C++, Ocaml )
 
-Tools: ( Arch Linux, Neovim, i3 gaps )
+Languages...  Python, C, C++, Ocaml 
+
+Tools.........  Arch Linux, Neovim, i3 gaps 
+
 
 
 
@@ -50,16 +52,8 @@ Tools: ( Arch Linux, Neovim, i3 gaps )
   ▉▉ │ Terminal ... alacritty
 ▉▉   │ Location ... 127.0.0.1
   ▉▉ │ Languages .. C (.c) | OCaml (.ml) | Python (.py) | Shell Scripting (.sh)
-▉▉   │ Editor ..... NeoVim
+▉▉   │ Editor ..... Neovim
 
-
- Intrests & Hobbies:
-   -  Linux Enthusiast
-   -  Ricing Linux
-   -  Programming, Shell Scripting
-   -  Cyber Sec
-** -  Learning more about computer is very enjoyable for me **
-```
 ---
 
 <img src="https://count.getloli.com/get/@Rainax1?theme=rule34" alt="Rainax1" />
