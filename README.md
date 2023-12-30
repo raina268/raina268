@@ -16,9 +16,9 @@ Intrests & Hobbies:
 <h2> Languages and Tools 🛠:></h2>
 
 
-Languages: Python, C , C++, Ocaml
+Languages: ( Python, C, C++, Ocaml )
 
-Tools: Arch Linux, Neovim, i3 gaps
+Tools: ( Arch Linux, Neovim, i3 gaps )
 
 
 
