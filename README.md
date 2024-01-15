@@ -1,27 +1,13 @@
 ## Hello!
 
-Hello! I'm a developer who likes to build things
+Hello! I'm a developer who likes to build things, I'm primarily interested in Cyber Security, Linux, Compiler Construction, Esoteric languages and ** Learning more about computer is very enjoyable for me **
 
-
-```
-Intrests & Hobbies:
-   -  Programming
-   -  Linux Enthusiast
-   -  Ricing Linux
-   -  Cyber Sec
-** -  Learning more about computer is very enjoyable for me **
-
-```
 
 ## Languages and Tools 🛠 :>
-
-
 
 Languages:   ( Python, C, C++, Ocaml )
 
 Tools:       ( Arch Linux, Neovim, i3 gaps )
-
-
 
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
