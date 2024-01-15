@@ -14,12 +14,14 @@ Hello! I'm a developer who likes to build things, I'm primarily interested in Cy
 ![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
 
 
+---
 
 <p align="center">
 <img src="https://github.com/Rainax1/Rainax1/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
 
 <kbd>> info</kbd>
 
+---
 
 ```markdown
 ▉▉   │ OS ......... Arch Linux (btw) x86_64
