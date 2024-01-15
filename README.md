@@ -52,5 +52,5 @@ Tools:       ( Arch Linux, Neovim, i3 gaps )
 ```
 ---
 
-<img src="https://count.getloli.com/get/@Rainax1?theme=rule34" alt="Rainax1" />
+![](https://komarev.com/ghpvc/?username=Rainax1&color=15a3a3)
 
