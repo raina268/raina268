@@ -9,7 +9,7 @@ Hello! I'm a developer who likes to build things, I'm primarily interested in Cy
 ![Neovim](https://img.shields.io/badge/Neovim-0078D4?style=for-the-badge&logo=neovim&logoColor=green)
 ![C](https://img.shields.io/badge/%20-C-%23434C5E?style=for-the-badge&logo=C&%2B%2B&labelColor=%#5968BA&logoColor=%5968BA)
 ![Ocaml](https://img.shields.io/badge/%20-Ocaml-%23434C5E?style=for-the-badge&logo=Ocaml&labelColor=%23A8B9CC&logoColor=orange)
-![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%23800000)
+![C++](https://img.shields.io/badge/C%2B%2B-%23434C5E?style=for-the-badge&logo=C%2B%2B&labelColor=%#5968BA)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)
 
