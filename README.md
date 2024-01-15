@@ -1,6 +1,6 @@
-# Oh Hi 👋
+## Hello!
 
-I'm a developer who likes to build things and share them with everyone 😉
+Hello! I'm a developer who likes to build things
 
 
 ```
@@ -13,7 +13,7 @@ Intrests & Hobbies:
 
 ```
 
-<h2> Languages and Tools 🛠:></h2>
+## Languages and Tools 🛠 :>
 
 
 
