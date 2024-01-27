@@ -3,7 +3,8 @@
 Hello! I'm a developer who likes to build things, I'm primarily interested in Cyber Security, Linux, and *Learning more about computer is very enjoyable for me*
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass." alt="touch some grass" title="toch some grass" width="40%"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass." alt="touch some grass" title="toch some grass" width="50%"/>
+
 
 <p align="center">
 <img src="https://github.com/Rainax1/Rainax1/blob/main/meme.gif" alt="meme" title="funny" width="50%"/>
