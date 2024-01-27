@@ -9,9 +9,9 @@ Hello! I'm a developer who likes to build things, I'm primarily interested in Cy
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=face-hh&show_icons=true&theme=tokyonight&hide=["issues"])
+![face-hh](https://github-readme-stats.vercel.app/api?username=Rainax1&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=Rainax1&show_icons=true&theme=tokyonight&layout=compact)
 
 --- END RANDOM STATS NO ONE READS ---
 
