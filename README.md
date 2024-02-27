@@ -3,7 +3,7 @@
 Hello! I'm a developer who likes to build things, I'm primarily interested in Cyber Security, Linux, and *Learning more about computer is very enjoyable for me*
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka+Nerd+Font&weight=900&pause=1000&color=6791C9&background=0C0E0F00&center=true&vCenter=true&width=435&lines=Touch+Some+Grass"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka+Nerd+Font&weight=1500&pause=1000&color=6791C9&background=0C0E0F00&center=true&vCenter=true&width=500&lines=Touch+Some+Grass"/>
 
 
 <p align="center">
