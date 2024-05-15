@@ -12,5 +12,3 @@ Hello! I'm a developer who likes to build things, I'm primarily interested in Cy
 
 ![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=Rainax1&show_icons=true&theme=tokyonight&layout=compact)
 
-
-![](https://komarev.com/ghpvc/?username=Rainax1&color=15a3a3)
