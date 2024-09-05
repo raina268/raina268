@@ -1,3 +1,1 @@
-whoami
-
-imaoohw
+/bin/whoami
